@@ -22,8 +22,15 @@ public class Customer {
 	@Column
 	private String custAdd;
 	
+<<<<<<< Updated upstream
 	@column 
 	private String custMobile  //bug122 fixed
+=======
+	@column
+	priavte String custpincode  //bug121
+	
+	
+>>>>>>> Stashed changes
 	
 
 }
