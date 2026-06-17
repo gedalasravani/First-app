@@ -22,5 +22,8 @@ public class Customer {
 	@Column
 	private String custAdd;
 	
+	@column 
+	private String custMobile  //bug122 fixed
+	
 
 }
