@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello sravs sravani surya
+=======
+hello sravs you are beautiful
+>>>>>>> 7cbd5b52fd9667ccc6dddf1ed24aabefffc0f8df
 
 waste fellow @sandeep
